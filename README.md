@@ -1,6 +1,6 @@
 # Gatsby Starter Amsterdam
 
-A basic starter using **Gatsby Theme Amsterdam**.
+A basic starter using **Gatsby Starter Amsterdam**.
 
 - [Theme Documentation](https://github.com/ryanwiemer/gatsby-theme-amsterdam)
 - [Theme Website](https://amsterdam.netlify.com/)
